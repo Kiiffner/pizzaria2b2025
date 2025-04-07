@@ -42,6 +42,8 @@ const Formulario = (props) => {
       <Formulario titulo = "CPF" mensagem = "santos" />
       <Formulario titulo = "Telefone" mensagem = "GOTI" />
       <Formulario />
+      <Formulario />
+      <Formulario />
         
     </div>
   )
